@@ -27,7 +27,8 @@
     "lint:fix": "biome check --write .",
     "lint:dangerous": "biome lint --write --unsafe .",
     "prepublishOnly": "npm run build",
-    "test": "jest"
+    "test": "jest",
+    "biome:migrate": "biome migrate --write"
   },
   "files": [
     "dist"
