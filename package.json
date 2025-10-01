@@ -3,11 +3,13 @@
   "version": "0.5.5",
   "description": "n8n node to parse HTML using Cheerio",
   "keywords": [
+    "n8n-nodes-cheerio-html-parser",
+    "n8n-node",
     "n8n",
-    "node",
+    "scrape",
     "cheerio",
-    "html",
-    "parser"
+    "parse",
+    "html"
   ],
   "license": "MIT",
   "homepage": "https://github.com/zzzarius/n8n-nodes-cheerio-html-parser",
