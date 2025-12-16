@@ -47,7 +47,7 @@
     "@types/jest": "^30.0.0",
     "gulp": "^5.0.1",
     "jest": "^30.0.0",
-    "n8n-workflow": "~1.120.0",
+    "n8n-workflow": "~2.1.0",
     "ts-jest": "^29.3.4",
     "typescript": "~5.9.2"
   },
