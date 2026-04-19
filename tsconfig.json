@@ -9,6 +9,7 @@
     "useDefineForClassFields": false,
     "skipLibCheck": true,
     "sourceMap": true,
+    "rootDir": "./nodes/CheerioHTMLParser",
     "outDir": "./dist/nodes/CheerioHTMLParser",
     "esModuleInterop": true,
     "isolatedModules": true
