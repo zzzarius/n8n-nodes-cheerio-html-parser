@@ -10,7 +10,8 @@
     "skipLibCheck": true,
     "sourceMap": true,
     "outDir": "./dist/nodes/CheerioHTMLParser",
-    "esModuleInterop": true
+    "esModuleInterop": true,
+    "isolatedModules": true
   },
   "include": ["nodes/**/*", "credentials/**/*"],
   "exclude": ["node_modules/**/*", "**/*.test.ts"]
